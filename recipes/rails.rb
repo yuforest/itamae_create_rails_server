@@ -1,0 +1,7 @@
+package 'ImageMagick'
+package 'ImageMagick-devel'
+package 'icu'
+package 'libicu-devel'
+package 'libxml2-devel'
+package 'libcurl-devel'
+package 'cmake'

@@ -1,0 +1,19 @@
+{
+  "rbenv": {
+    "versions": ["3.0.2"],
+    "global": "3.0.2",
+    "gems": [
+      {
+        "name": "bundler",
+        "option": "--no-document"
+      },
+      {
+        "name": "rails",
+        "option": "--no-document"
+      }
+    ]
+  },
+  "sshd": {
+    "port": "10022"
+  }
+}
